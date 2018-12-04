@@ -10,20 +10,34 @@
 
 **(+참고지식 :버전 별 각종 재밌는 네이밍)**
 2.0 진저브레드(생강빵)
-![생강빵](D:\편집\안드로이드\생강빵.png)
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/gin.png)
+
 3.0 허니콤 
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/honey.jpg)
 
-![허니콥](D:\편집\안드로이드\허니콥.jpg)
-4.0 아이스크림 샌드위치 - 2011년 10월 19일 정식공개![아이스크림 샌드위치](D:\편집\안드로이드\아이스크림 샌드위치.jpg)
+4.0 아이스크림 샌드위치 - 2011년 10월 19일 정식공개
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/icecream.jpg)
+
 4.1~4.3 젤리빈  - 2012년 6월 28일 정식공개
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/jelly.jpg)
 
-![젤리빈](D:\편집\안드로이드\젤리빈.jpg)4.4 킷캣 - 2013년 10월 31일 정식공개
-![킷캣](D:\편집\안드로이드\킷캣.png)
+4.4 킷캣 - 2013년 10월 31일 정식공개
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/kitkat.png)
+
 5.0 롤리팝 -  2014년 10월 16일 정식공개
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/loli.png)
 
-![롤리팝](D:\편집\안드로이드\롤리팝.png)
-6.0 마시멜로 - 2015년 10월 6일 정식공개![마시멜로](D:\편집\안드로이드\마시멜로.jpg)
-7.0 누가 - 2016년 8월 23일 정식공개![누가](D:\편집\안드로이드\누가.jpg)8.0 오레오 - 2017년 8월 22일 정식 공개 ![오레오](D:\편집\안드로이드\오레오.png)9.0 파이 - 2018년 8월 6일 정식 공개 ![파이](D:\편집\안드로이드\파이.jpg)
+6.0 마시멜로 - 2015년 10월 6일 정식공개!
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/masi.jpg)
+
+7.0 누가 - 2016년 8월 23일 정식공개
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/noga.jpg)
+
+8.0 오레오 - 2017년 8월 22일 정식 공개
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/oreo.png)
+
+9.0 파이 - 2018년 8월 6일 정식 공개
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/pie.jpg)
 
 
 
@@ -31,7 +45,7 @@
 
 ####  유니티 엔진(주 사용언어 C#)
 
-![유니티엔진](D:\편집\안드로이드\유니티엔진.jpg)
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/unity.jpg)
 2005년 6월 8일 처음 발표.  2018년 5월 말 한글패치 제공, 공식 네이버 카페 있음.
 
 **장점**
@@ -47,7 +61,7 @@
 
 #### 주 사용언어 C#
 
-![C#](D:\편집\안드로이드\C#.png)
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/c%23mark.png)
 마이크로소프트에서 개발한 객체 지향 프로그래밍 언어
 닷넷 프레임워크의 한부분
 C++과 자바와 비슷한 문법을 가지고있음.
@@ -70,7 +84,7 @@ C#은 C++보다 형 안전성에 대하여 더 관대하다. 이 말은 형 안�
 
 **(+참고지식:C#의 역사)**
 
-![c# 개발자](D:\편집\안드로이드\c# 개발자.jpg)
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/c%23man.jpg)
  C#은 마이크로소프트(MS)가 개발한 언어로 덴마크 소프트웨어 개발자 아네르스 하일스베르가 주도한 프로젝트. 처음에는 C#이라고 불리지 않고, 쿨(Cool)이라는 이름을 가졌었다. 
  Cool은 C-like Object Oriented Language의 약자를 따온 단어였다. 한글로 풀이하면 ‘C와 비슷한 객체지향언어’였다. 하지만 법률팀이 C#을 법적 트래이드 마크로 사용하기 힘들다는 조언을 제공하고 다른 이름을 찾기 시작했다. 
   C의 영향을 받은 언어라는 점을 강조하기 위해 ‘e-C, 세이프 C, C-스퀘어, C-큐브, C-프라임, C-스타, 세슘 등을 후보로 내놓았다고 한다.  C++처럼 뭔가 한단계 올라갔다는 단어를 고민하다가 ‘C++++’라는 단어도 추천했다. C#에서 샵에는 +표시가 4개 엮어 있고, 음악 용어에서도 C#은 C에서 1도 위 음을 뜻해 좋은 단어였다. 
@@ -78,7 +92,7 @@ C#은 C++보다 형 안전성에 대하여 더 관대하다. 이 말은 형 안�
 
 **(+참고지식: JAVA의 역사)**
 
-![자바제작자(제임스 고슬링)](D:\편집\안드로이드\자바제작자(제임스 고슬링).jpg)
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/javaman.jpg)
 JAVA는 캐나다의 소프트웨어 개발자 제임스 고슬링이 만든 언어이다.
 자바는 원래 ‘오크’라고 불렸던 프로젝트다. 자바 창시자 제임스 고슬링의 사무실 밖에 오크 나무가 보여 이를 활용했다고 한다.
  하지만 ‘오크 테크놀로지’라는 기업이 이미 존재했고, 법적인 문제를 피하기 위해 새로운 이름을 찾아야만 했다. 오크 프로젝트 팀 멤버들은 머리를 맞대고 다양한 이름을 후보로 추천했다. 
@@ -86,7 +100,7 @@ JAVA는 캐나다의 소프트웨어 개발자 제임스 고슬링이 만든 언
 
 **(+참고지식 : C++의 역사)**
 
-![C++ 제작자](D:\편집\안드로이드\C++ 제작자.jpg)
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/c%2B%2Bman.jpg)
 C++은 덴마크의 컴퓨터 과학자 비야네 스트롭스트룹가 만든 프로젝트이다.
 C언어보다 객체 지향화한 언어라고 볼 수 있다. C++의 처음 이름은 ‘클래스를 가진 C(C with Classes)’였는데 향후 C++로 변경됐다. 
 ++은 C 언어에서 증가연산자이기 때문에 C++이란 말 자체가 C에 1을 더한 언어, 한가지 추가한 언어라는 해석이 가능하다.
@@ -95,7 +109,7 @@ C언어보다 객체 지향화한 언어라고 볼 수 있다. C++의 처음 이
 
 ### 2-1 아마존 클라우드 서버
 
-![아마존](D:\편집\안드로이드\아마존.png)
+![](https://github.com/LEECHOONGYEUN/-12-/blob/master/aws.png)
 
 **확장이 용이함**
  Amazon Web Services(AWS)는 라우드 서비스 플랫폼으로서, 컴퓨팅 능력, 데이터베이스 스토리지, 콘텐츠 전송 및 기타 기능을 제공하여 확장이 용이함
@@ -111,7 +125,7 @@ AWS는 다양한 프로그래밍 언어를 위한 소프트웨어 개발 도구(
 
 ### 2-2 DATABASE 프레임워크 : Django 
 
-### ![장고](D:\편집\안드로이드\장고.png)
+### ![](https://github.com/LEECHOONGYEUN/-12-/blob/master/django.png)
 
 Django는 2005년부터 시작된 Python의 오픈 소스 웹 프레임워크이다. 
 Django는 풀 스택 프레임워크이다.
